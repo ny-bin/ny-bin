@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 
 ## ⚡ Status
-[![Ny-bin's github stats](https://readme-stats.psbss.vercel.app/api?username=ny-bin&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/ny-bin/)
-[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=ny-bin&layout=compact&theme=algolia)](https://github.com/ny-bin/)
+![Nybin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ny-bin&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny-bin)](https://github.com/ny-bin/github-readme-stats)
