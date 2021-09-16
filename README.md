@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 ## ⚡ Status
 ![Nybin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ny-bin&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny-bin)](https://github.com/ny-bin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ny-bin)]
